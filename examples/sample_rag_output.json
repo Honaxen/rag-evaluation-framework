@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the capital of France?",
+    "context": ["Paris is the capital and most populous city of France. It has been the country's political, cultural, and commercial center for centuries."],
+    "answer": "The capital of France is Paris.",
+    "ground_truth": "Paris"
+  },
+  {
+    "id": "q2",
+    "question": "How does photosynthesis work?",
+    "context": ["Photosynthesis is the process by which green plants convert sunlight into food. Plants absorb carbon dioxide and water, using light energy to produce glucose and oxygen."],
+    "answer": "Photosynthesis converts sunlight into glucose. Plants use CO2 and water to produce food and release oxygen.",
+    "ground_truth": "Plants use sunlight, CO2, and water to produce glucose and oxygen."
+  },
+  {
+    "id": "q3",
+    "question": "Who invented the telephone?",
+    "context": ["Alexander Graham Bell is credited with the invention of the telephone in 1876. He was the first to obtain a patent for the device."],
+    "answer": "The telephone was invented by Alexander Graham Bell in 1876.",
+    "ground_truth": "Alexander Graham Bell invented the telephone in 1876."
+  },
+  {
+    "id": "q4",
+    "question": "What is the speed of light?",
+    "context": ["The speed of light in a vacuum is approximately 299,792 kilometers per second. This is a fundamental constant in physics."],
+    "answer": "The speed of light is about 300,000 km/s.",
+    "ground_truth": "The speed of light is approximately 299,792 km/s."
+  },
+  {
+    "id": "q5",
+    "question": "What causes rainbows?",
+    "context": ["Rainbows are caused by the refraction, dispersion, and reflection of sunlight inside water droplets. Each color bends at a slightly different angle, separating white light into its spectrum."],
+    "answer": "Mount Everest is the tallest mountain in the world.",
+    "ground_truth": "Rainbows are caused by refraction and reflection of light in water droplets."
+  }
+]
